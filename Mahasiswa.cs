@@ -7,7 +7,7 @@ namespace ProjectMahasiswa
 {
     public class Mahasiswa
     {
-        public string Nim { set; get; }
+        public string Npm { set; get; }
         public string NamaMahasiswa { set; get; }
         public string JenisKelamin { set; get; }
         public string IPK { set; get; }
